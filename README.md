@@ -161,16 +161,21 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Hacker Rank](https://www.hackerrank.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
+   * [Code Chef](https://www.codechef.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
 
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
+   * [Echo CTF](https://echoctf.com/)
+   * [Pico CTF](https://picoctf.org/)
+   * [Over The Wire](https://overthewire.org/wargames/)
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
    * [VulnHub](https://www.vulnhub.com/)
+   * [TryHackMe](https://tryhackme.com/)
    * [Awesome Curated List of Environments and Platforms for Hacking and CTFs!](https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html)
 
 
@@ -210,6 +215,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
     * [Code with harry(hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
+    * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
+    * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads designing sites with TailWind.
+    * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
+    * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -288,6 +297,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Kobra.io](https://kobra.io/)
 * [A web whiteboard](https://awwapp.com/) A touch-friendly online whiteboard (tableau)
 * [Glitch (GoMix)](https://glitch.com/) Build your applications online, with real collaboration
+* [CodeSandbox](https://codesandbox.io/dashboard) : Build React/Vue/Angular/Node/Vanilla JS projects online.
 
 ### Podcasts
 * English
